@@ -15,7 +15,6 @@ class _NightViewState extends State<NightView> {
   void initState() {
     super.initState();
   }
-
   Window? w;
 
   final _show = true;
